@@ -1,0 +1,5 @@
+htmlparse
+htmlparse_san
+test.html
+*.o
+build/
